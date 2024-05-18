@@ -42,7 +42,7 @@ function App() {
           className="w-full md:w-2/3 m-auto text-center rounded bg-gray-50 py-2"
         >
           <a href="https://github.com/Vishesh-Pandey/chat-ai" target="_blank">
-            <h1 className="text-3xl text-center">Chat AI</h1>
+            <h1 className="text-3xl text-center">Sasta GPT</h1>
           </a>
           <textarea
             required
